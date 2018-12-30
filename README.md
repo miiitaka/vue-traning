@@ -16,3 +16,7 @@ Vue.js Traning repository
 
 5. 条件分岐
 `v-if=""`
+
+6. 条件分岐（反転）とトランジション＆アニメーション
+`v-if=show=!show`
+`<transition>`
